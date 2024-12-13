@@ -6,6 +6,8 @@ export default function App() {
     <View style={styles.container}>
       <Text>Git branch Practice</Text>
       <Text>Start Practice</Text>
+
+      <Text>December 13, 2024</Text>
       <StatusBar style="auto" />
     </View>
   );
