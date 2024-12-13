@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Git branch Practice</Text>
+      <Text>Start Practice</Text>
       <StatusBar style="auto" />
     </View>
   );
